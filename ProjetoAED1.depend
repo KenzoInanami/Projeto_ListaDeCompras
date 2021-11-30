@@ -1,14 +1,13 @@
 # depslib dependency file v1.0
-1637096704 source:c:\users\kenzo\documents\_projetos\sfmlteste\main.cpp
+1637689599 source:c:\users\kenzo\documents\github\projeto_aed1\main.cpp
 	"Game.h"
 	"listaCad.h"
-	<iostream>
-	<conio.h>
 
-1637093646 c:\users\kenzo\documents\_projetos\sfmlteste\include\game.h
+1637540064 c:\users\kenzo\documents\github\projeto_aed1\include\game.h
 	<iostream>
 	<ctime>
 	<sstream>
+	<vector>
 	<SFML/Graphics.hpp>
 	<SFML/System.hpp>
 	<SFML/Window.hpp>
@@ -604,53 +603,20 @@
 	<SFML/Network/IpAddress.hpp>
 	<vector>
 
-1637094328 c:\users\kenzo\documents\_projetos\sfmlteste\include\listacad.h
+1637265067 c:\users\kenzo\documents\github\projeto_aed1\include\listacad.h
 	"ItemLoja.h"
 
-1636697993 c:\users\kenzo\documents\_projetos\sfmlteste\include\itemloja.h
+1637533683 c:\users\kenzo\documents\github\projeto_aed1\include\itemloja.h
 	<string>
 
-1637098561 source:c:\users\kenzo\documents\_projetos\sfmlteste\src\game.cpp
+1637688553 source:c:\users\kenzo\documents\github\projeto_aed1\src\game.cpp
 	"Game.h"
 	"Game.h"
 
-1637095325 source:c:\users\kenzo\documents\_projetos\sfmlteste\src\itemloja.cpp
+1637533621 source:c:\users\kenzo\documents\github\projeto_aed1\src\itemloja.cpp
 	"ItemLoja.h"
 
-1637094352 source:c:\users\kenzo\documents\_projetos\sfmlteste\src\listacad.cpp
-	"listaCad.h"
-	<string.h>
-
-1637689599 source:c:\users\kenzo\documents\_projetos\projetoaed1\main.cpp
-	"Game.h"
-	"listaCad.h"
-
-1637540064 c:\users\kenzo\documents\_projetos\projetoaed1\include\game.h
-	<iostream>
-	<ctime>
-	<sstream>
-	<vector>
-	<SFML/Graphics.hpp>
-	<SFML/System.hpp>
-	<SFML/Window.hpp>
-	<SFML/Audio.hpp>
-	<SFML/Network.hpp>
-	"listaCad.h"
-
-1637265067 c:\users\kenzo\documents\_projetos\projetoaed1\include\listacad.h
-	"ItemLoja.h"
-
-1637533683 c:\users\kenzo\documents\_projetos\projetoaed1\include\itemloja.h
-	<string>
-
-1637688553 source:c:\users\kenzo\documents\_projetos\projetoaed1\src\game.cpp
-	"Game.h"
-	"Game.h"
-
-1637533621 source:c:\users\kenzo\documents\_projetos\projetoaed1\src\itemloja.cpp
-	"ItemLoja.h"
-
-1637533613 source:c:\users\kenzo\documents\_projetos\projetoaed1\src\listacad.cpp
+1637533613 source:c:\users\kenzo\documents\github\projeto_aed1\src\listacad.cpp
 	"listaCad.h"
 	<string.h>
 	<iostream>
