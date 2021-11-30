@@ -2,5 +2,7 @@
 *.exe
 *.o
 *.cbp
-*.depend
 *.layout
+*.depend
+bin/
+obj/
