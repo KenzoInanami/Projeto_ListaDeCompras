@@ -347,6 +347,7 @@ void Game::renderLista(sf::RenderTarget& target)
 		bool ok;
 		float height = 185;
 		float total = 0;
+
 		this->lista.getPrim(&aux, &ok);
 
 		info.precision(0);

@@ -1,7 +1,5 @@
 #include "Game.h"
 #include "listaCad.h"
-#include <iostream>
-#include <conio.h>
 
 void criarListaDeCompras(listaCad* lista);
 
