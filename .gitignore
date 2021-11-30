@@ -5,8 +5,4 @@
 *.layout
 *.depend
 bin/
-<<<<<<< HEAD
 obj/
-=======
-obj/
->>>>>>> 59b7d160e5b3acce8e478a018536566ab3491df3
